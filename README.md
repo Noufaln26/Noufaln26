@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Noufal
+- 👋 Hi, I’m Noufal N
 - 👀 I’m interested in front-end projects
 - 🌱 I’m currently learning Advanced React-Js techniques
 - 💞️ I’m looking to collaborate on front end frameworks.
